@@ -23,5 +23,44 @@
   border-radius: 8px;
   cursor: pointer;
 }
-.sr-only {
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat1 {
+  background-color: rgb(255, 166, 0);
+}
+.cat2 {
+  background-color: rgb(209, 79, 209);
+}
+.cat3 {
+  background-color: rgb(91, 75, 235);
+}
+.categories h1 {
+  color: aliceblue;
+}
+.categories img {
+  width: 100px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: gray;
+}
+footer {
+  text-align: center;
+}
+.rong {
+  color: red;
 }
